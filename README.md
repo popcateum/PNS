@@ -1,2 +1,2 @@
 # PNS
-Popcateum Name Service
+Popcateum Nickname Service
