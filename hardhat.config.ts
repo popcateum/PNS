@@ -12,7 +12,7 @@ const config: HardhatUserConfig = {
     popcateum: {
       url: "https://dataseed.popcateum.org",
       accounts: [process.env.ADMIN || ''],
-      chainId: 42,
+      chainId: 1213,
     },
   },
 };
